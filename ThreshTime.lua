@@ -111,4 +111,4 @@ function ThreshTime.debug()
     print(dump(ThreshTime.getTime()))
 end
 
-ThreshTime.debug()
+-- ThreshTime.debug()
