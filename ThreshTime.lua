@@ -1,7 +1,7 @@
 ThreshTime = ThreshTime or {
     config = {
         epochStart = 631170000, -- The start of the game's clock in UNIX time
-        start = { date = 1, month = 1, year = 100 }, -- The first game day, arrays are 1-based
+        start = { month = 1, year = 100 }, -- The first game day, arrays are 1-based
         dayLength = 7200, -- The number of UNIX seconds in a game day
         monthLength = 216000,   -- The number of UNIX seconds in a game month
         daysInMonth = 30, -- The number of game days in a game month
